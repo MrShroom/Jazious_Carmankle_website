@@ -1,9 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
 <url>
   <loc>http://www.ics.uci.edu/~smcthoma/JaziousCarmankle/</loc>
-  <lastmod>2016-01-26T08:19:57+00:00</lastmod>
-  <changefreq>always</changefreq>
-  <priority>1.0</priority>
+  <lastmod>2016-01-28T04:59:49+00:00</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.ics.uci.edu/~smcthoma/JaziousCarmankle/jazious_carmankle_new_storys.html</loc>
+  <lastmod>2016-01-28T06:13:40+00:00</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>http://www.ics.uci.edu/~smcthoma/JaziousCarmankle/index.html</loc>
+  <lastmod>2016-01-28T04:59:49+00:00</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
 </url>
 </urlset>
